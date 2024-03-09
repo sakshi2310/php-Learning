@@ -1,0 +1,10 @@
+<?php 
+
+/*
+
+Template Name: blog
+	
+*/
+
+
+ ?>
